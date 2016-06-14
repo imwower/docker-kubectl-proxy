@@ -10,7 +10,7 @@
 
 FROM ubuntu:16.04
 
-ENV KUBECTL_VERSION 1.2.0
+ENV KUBECTL_VERSION 1.2.4
 
 MAINTAINER Samuel Cozannet <samuel.cozannet@madeden.com>
 
